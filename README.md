@@ -10,9 +10,8 @@
 1. creating a new repository
 2. editing it in browser
 3. github pages
-4. git workflow
-5. new repo, clone
-6. add, commit, push
+4. cloning
+5. git workflow: add, commit, push
 
 ## Applications
 * posting starter code
@@ -26,8 +25,6 @@
 * Project repos: **github.com/userName/repoName** --> **userName.github.io/repoName**
   * Repo: [github.com/hstatsep/portfolio-template](https://github.com/hstatsep/portfolio-template)
   * Website: [hstatsep.github.io/portfolio-template](https://hstatsep.github.io/portfolio-template/)
-
-
 
 ## Resources
 * [Me giving a crash course / review on Github & command line with the cloud-based CS50 IDE](https://www.youtube.com/watch?v=ENdYkG6R41A)
