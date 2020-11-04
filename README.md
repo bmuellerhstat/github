@@ -24,5 +24,6 @@
 * [Olson & Shneider on Git & Github](https://www.youtube.com/watch?v=tqk6BMjiizA)
 * [Zamansky & Durland-Weaver on Git & Github](https://www.youtube.com/watch?v=Az8XuZUmeog)
 * [Dan Shiffman playlist](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
-
+* [Me going over Github with the cloud-based CS50 IDE](https://www.youtube.com/watch?v=ENdYkG6R41A)
+  * [IDE setup instructions](https://github.com/hstatsep/ide50)
 
