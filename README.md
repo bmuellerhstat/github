@@ -4,6 +4,7 @@
 * People work on text-based projects: websites, apps, books, etc
 * Git is the software used to manage different versions of those files
 * Github is the cloud storage and collaboration platform for git projects
+![push/pull](push-pull.png)
 
 ## Website Walkthrough
 1. creating a new repository
@@ -19,7 +20,9 @@
 * [Github Classroom](https://classroom.github.com/) for distributing/grading code
 
 ## Resources
-[Github Classroom Video](https://www.youtube.com/watch?v=KXWXg68KpTY)
-[Olson & Shneider on Git & Github](https://www.youtube.com/watch?v=tqk6BMjiizA)
-[Zamansky & Durland-Weaver on Git & Github](https://www.youtube.com/watch?v=Az8XuZUmeog)
-[Dan Shiffman playlist](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
+* [Github Classroom Video](https://www.youtube.com/watch?v=KXWXg68KpTY)
+* [Olson & Shneider on Git & Github](https://www.youtube.com/watch?v=tqk6BMjiizA)
+* [Zamansky & Durland-Weaver on Git & Github](https://www.youtube.com/watch?v=Az8XuZUmeog)
+* [Dan Shiffman playlist](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
+
+
