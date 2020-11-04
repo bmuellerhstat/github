@@ -2,8 +2,8 @@
 
 ## 30,000 Foot View
 * People work on text-based projects: websites, apps, books, etc
-* Git is the software used to manage versions
-* Github is the cloud storage and collaboration platform for git projects (diagram)
+* Git is the software used to manage different versions of those files
+* Github is the cloud storage and collaboration platform for git projects
 
 ## Website Walkthrough
 1. creating a new repository
