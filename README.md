@@ -19,6 +19,16 @@
 * class/student websites/portfolios
 * [Github Classroom](https://classroom.github.com/) for distributing/grading code
 
+## URL structure
+* User repos: **userName.github.io**
+  * Repo: [github.com/brianmueller/brianmueller.github.io](https://github.com/brianmueller/brianmueller.github.io)
+  * Website: [brianmueller.github.io](http://brianmueller.github.io/)
+* Project repos: **github.com/userName/repoName** --> **userName.github.io/repoName**
+  * Repo: [github.com/hstatsep/portfolio-template](https://github.com/hstatsep/portfolio-template)
+  * Website: [hstatsep.github.io/portfolio-template](https://hstatsep.github.io/portfolio-template/)
+
+
+
 ## Resources
 * [Me giving a crash course / review on Github & command line with the cloud-based CS50 IDE](https://www.youtube.com/watch?v=ENdYkG6R41A)
   * [IDE setup instructions](https://github.com/hstatsep/ide50)
@@ -26,3 +36,4 @@
 * [Github Classroom Video](https://www.youtube.com/watch?v=KXWXg68KpTY)
 * [Olson & Shneider on Git & Github](https://www.youtube.com/watch?v=tqk6BMjiizA)
 * [Zamansky & Durland-Weaver on Git & Github](https://www.youtube.com/watch?v=Az8XuZUmeog)
+* [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
